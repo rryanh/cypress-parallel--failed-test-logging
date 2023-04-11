@@ -1,11 +1,11 @@
 {
-  "name": "cypress-parallel",
-  "version": "0.12.0",
+  "name": "cypress-parallel--failed-test-logging",
+  "version": "0.1.0",
   "description": "Reduce up to 40% your Cypress suite execution time parallelizing the test run on the same machine.",
   "main": "cli.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tnicola/cypress-parallel.git"
+    "url": "git+https://github.com/rryanh/cypress-parallel--failed-test-logging.git"
   },
   "keywords": [
     "cypress",
@@ -16,9 +16,9 @@
   "author": "Nicola Tommasi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tnicola/cypress-parallel/issues"
+    "url": "https://github.com/rryanh/cypress-parallel--failed-test-logging/issues"
   },
-  "homepage": "https://github.com/tnicola/cypress-parallel#readme",
+  "homepage": "https://github.com/rryanh/cypress-parallel--failed-test-logging#readme",
   "bin": {
     "cypress-parallel": "./cli.js"
   },
