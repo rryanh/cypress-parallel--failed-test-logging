@@ -84,6 +84,7 @@ npx cy:parallel -s cy:run -t 2 -d '<your-cypress-specs-folder>' -a '"<your-cypre
 | --bail            | -b    | Exit on first failing thread       | string |
 | --verbose         | -v    | Some additional logging            | string |
 | --strictMode      | -m    | Add stricter checks after running the tests           | boolean |
+| --color      | -c    | Displays the output with color           | boolean |
 
 **NB**: If you use *cypress-cucumber-preprocesor*, please **disable** the *strictMode* to avoid possible errors:
 
